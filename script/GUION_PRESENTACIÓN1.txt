@@ -1,0 +1,22 @@
+Diapositiva 1: INTRODUCIÓN
+
+"El sector oriente de la Región Metropolitana ha presentado fluctuaciones importantes en el mercado inmobiliario, lo que ha creado la necesidad de optimizar el proceso de compra de departamentos. Nuestro proyecto busca responder a este desafío desarrollando una plataforma digital que centralice la información clave para los compradores, permitiendo tomar decisiones informadas de manera más eficiente.
+
+
+
+Diapositiva 2: SOLUCIÓN PROPUESTA
+
+-PROPONEMOS el desarrollo de una plataforma digital que ayude a facilitar el análisis y la toma de decisiones en el proceso de compra de departamentos u/o casa.
+
+-Esta plataforma permitirá a los potenciales compradores acceder a información clave. VARIABLES como el precio, ubicación, la superficie, el número de baños y dormitorios serán parte de este análisis, optimizando la búsqueda y compra de propiedades según las necesidades y posibilidades de las personas, en otras palabras lograr optimizar las decisiones, POR ENDE se ofrecerá estimaciones precisas de precios basadas en estas variables. De esta forma, los usuarios podrán comparar propiedades y tener una visión más clara del valor real de las viviendas que les interesan.
+
+
+Diapositiva 3: DESCRIPCIÓN DEL PROYECTO
+
+-El proyecto consiste en el DESARROLLO DE UNA PLATOFORMA WEB que permitirá tanto la compra como el arriendo de propiedades, ENFOCANDONOS, EN ESTE CASO en las comunas del sector oriente de Santiago.
+
+-La plataforma permitirá optimizar la VISIBILIDAD DEL NEGOCIO INMOBILIARIO para los propietarios y agentes inmobiliarios, 
+-Utilizaremos tecnologías como Python, Django, PostgreSQL  
+-un MODELO PREDICTIVO que permitirá a los usuarios obtener estimaciones confiables sobre los precios reales de las propiedades.
+
+EN RESUMEN, esta plataforma  será una herramienta útil para comprador o arrendar propiedades, también mejorará la eficiencia PROCESO del mercado inmobiliario , al ofreciendo un espacio donde se centralice toda la información necesaria para la toma de decisiones.
