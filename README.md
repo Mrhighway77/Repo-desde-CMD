@@ -1,1 +1,1 @@
-"# Segunda practica Git" 
+"son limitados, tienen necesidades y preocupaciones" 
